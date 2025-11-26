@@ -9,11 +9,13 @@
 
 ## 👨‍💻 About Me
 
-⚙️ I enjoy building clean, scalable backend systems using Java
-📘 Learning Spring Boot, Spring Security, Microservices & Cloud deployments
-💬 I love discussing APIs, backend design patterns, and database architecture
-🎯 Career Goal: Backend Developer specializing in Java ecosystems
-📩 Email: bhadkiran1804@gmail.com
+🛠️ Crafting backend systems with **Java**  
+📌 Currently developing **QuickInvoice – The Smart Invoice Generator**  
+🔍 Exploring **Spring Boot, Spring Security, Cloud & API Engineering**  
+❤️ Love turning ideas into **working, scalable applications**  
+🎯 Goal: Become a **Backend Developer (Java/Spring)**  
+📫 Email: **bhadkiran1804@gmail.com**
+
 ---
 
 ## 🚀 Tech Stack
