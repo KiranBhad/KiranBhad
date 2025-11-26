@@ -9,8 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🛠️ Crafting backend systems with **Java**  
-📌 Currently developing **QuickInvoice – The Smart Invoice Generator**  
+🛠️ Crafting backend systems with **Java**   
 🔍 Exploring **Spring Boot, Spring Security, Cloud & API Engineering**  
 ❤️ Love turning ideas into **working, scalable applications**  
 🎯 Goal: Become a **Backend Developer (Java/Spring)**  
