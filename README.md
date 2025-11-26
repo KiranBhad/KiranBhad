@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **SubPilot – SaaS Subscription Billing System**
+- 🔭 I’m currently working on **QuickInvoice- The Smart Invoice Generator**
 - 🌱 I’m learning **Spring Boot, Spring Security & Cloud Deployments**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, React, Databases**
 - 🚀 Goal: Become a **Backend Developer**
@@ -20,10 +20,10 @@
 ## 🚀 Tech Stack
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 ### 🧩 Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
