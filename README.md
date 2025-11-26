@@ -9,12 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **QuickInvoice- The Smart Invoice Generator**
-- 🌱 I’m learning **Spring Boot, Spring Security & Cloud Deployments**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, React, Databases**
-- 🚀 Goal: Become a **Backend Developer**
-- 📫 Reach me at **bhadkiran1804@gmail.com**
-
+⚙️ I enjoy building clean, scalable backend systems using Java
+📘 Learning Spring Boot, Spring Security, Microservices & Cloud deployments
+💬 I love discussing APIs, backend design patterns, and database architecture
+🎯 Career Goal: Backend Developer specializing in Java ecosystems
+📩 Email: bhadkiran1804@gmail.com
 ---
 
 ## 🚀 Tech Stack
