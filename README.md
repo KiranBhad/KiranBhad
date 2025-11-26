@@ -43,54 +43,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🔥 My Projects
-
-### 🌟 **SubPilot – SaaS Subscription Billing System**
-Spring Boot + React full-stack application  
-✔ JWT Auth | ✔ Admin Dashboard | ✔ Email Verification | ✔ Plan Management  
-👉 *Private repo (Work in progress)*
-
-### 🧩 **Mines Game (Java Swing)**
-A custom mines game inspired by Stake  
-✔ Multipliers | ✔ Bomb Logic | ✔ Animations  
-🔗 https://github.com/kiranbhad
-
-### ⚡ **Price Watcher – Flipkart/Amazon Price Tracker**
-Python + BeautifulSoup + Automation  
-✔ Price tracking | ✔ Email/WhatsApp alerts  
-🔗 https://github.com/kiranbhad
-
-### 📱 **Bike Rental App (Android + Firebase)**
-✔ Authentication | ✔ Booking | ✔ Payments  
-🔗 https://github.com/kiranbhad
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranbhad&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranbhad&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranbhad&layout=compact&theme=tokyonight" alt="languages" />
-</p>
-
----
-
-## 🎯 Goals for 2025
-- Build 5+ strong backend projects  
-- Master Spring Security + Microservices  
-- Contribute to open-source  
-- Get a **Backend Engineer role**
-
----
 
 ## 😄 Fun Facts
 - ☕ Coffee powers half the code I write  
@@ -100,7 +52,7 @@ Python + BeautifulSoup + Automation
 ---
 
 ## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-bhad-9458b1236/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhadkiran1804@gmail.com)
 
 ---
